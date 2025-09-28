@@ -1,7 +1,7 @@
-# Quick Start
-# Make script executable and run in Linux
+# Быстрый старт
+# запуск на Линуксе
 ./run.sh
-# Make script executable and run in Windows
+# запуск на Винде
 ./run.bat
 
 Скрипт extract.py  (Сбор данных)  
@@ -19,6 +19,7 @@
 -Сохраняет результат в витрину top_users_by_posts  
 
 Допы выполнить не смог
+
 
 
 
