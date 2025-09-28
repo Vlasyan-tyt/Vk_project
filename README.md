@@ -3,6 +3,7 @@
 ## Quick Start
 
 ```bash
-# Make script executable and run
-chmod +x run.sh
+# Make script executable and run in Linux
 ./run.sh
+#Make script executable and run in Windows
+./run.bat
