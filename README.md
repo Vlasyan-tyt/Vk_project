@@ -1,9 +1,9 @@
 # ETL Pipeline for User Posts Analytics
 
 # Quick Start
-Make script executable and run in Linux
+# Make script executable and run in Linux
 ./run.sh
-#Make script executable and run in Windows
+# Make script executable and run in Windows
 ./run.bat
 
 Скрипт extract.py - Сбор данных
@@ -21,3 +21,4 @@ Make script executable and run in Linux
 -Сохраняет результат в витрину top_users_by_posts
 
 Допы выполнить не смог
+
