@@ -1,5 +1,3 @@
-# ETL Pipeline for User Posts Analytics
-
 # Quick Start
 # Make script executable and run in Linux
 ./run.sh
@@ -21,6 +19,7 @@
 -Сохраняет результат в витрину top_users_by_posts  
 
 Допы выполнить не смог
+
 
 
 
